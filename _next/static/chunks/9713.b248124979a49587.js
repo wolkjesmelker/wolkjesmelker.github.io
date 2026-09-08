@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[9713],{49713:(e,a,n)=>{n.r(a),n.d(a,{default:()=>r});var s=n(16498),d=n(74095),p=n(67882);function r(){return(0,s.jsx)(p.W,{pageId:"bandmap",baseTitleKey:"sidebar.bandMap",children:(0,s.jsx)(d.BandMapView,{})})}}}]);
